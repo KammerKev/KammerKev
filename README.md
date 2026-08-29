@@ -19,8 +19,10 @@ This repository tracks my transition into cybersecurity, building on a career th
 | Cross-Functional Communication | Translates complex technical findings into clear, actionable outcomes for audiences from field teams to C-suite executives |
 | Compliance & Risk Management | Enforces NIST & DOE Order compliance, security audits, and inspection readiness |
 
+## Projects
+
 ## Tools & Technologies
-*Foundational exposure gained through GSEC and GFACT coursework — actively deepening hands-on depth through the labs in this repo.*
+*Foundational exposure — actively deepening hands-on depth through the labs.*
 
 ### Data & Business Platforms
 <div>
@@ -83,6 +85,3 @@ This repository tracks my transition into cybersecurity, building on a career th
 
 ## Code Repository
 As I work through labs, coursework, and self-study, I'm dropping code, scripts, and notes here: [📂 Code Repository](https://github.com/KammerKev/YOUR-REPO-NAME)
-
-## Projects
-
