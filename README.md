@@ -20,6 +20,7 @@ This repository tracks my transition into cybersecurity, building on a career th
 | Compliance & Risk Management | Enforces NIST & DOE Order compliance, security audits, and inspection readiness |
 
 ## Projects
+- [Cyber Journal](https://github.com/kammerkev/Cyber-Journal)
 - [Home Lab Setup](https://github.com/KammerKev/home-lab)
 
 ## Tools & Technologies
