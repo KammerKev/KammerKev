@@ -21,7 +21,7 @@ This repository tracks my transition into cybersecurity, building on a career th
 
 ## Projects
 - [Cyber Journal](https://github.com/kammerkev/Cyber-Journal)
-- [Home Lab Setup](https://github.com/KammerKev/home-lab)
+- [Home Lab Setup](https://github.com/KammerKev/home-Cyber-Lab)
 
 ## Tools & Technologies
 *Foundational exposure — actively deepening hands-on depth through the labs.*
