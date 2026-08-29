@@ -12,7 +12,7 @@ This repository tracks my transition into cybersecurity, building on a career th
 
 | Strength | Background |
 |----------|------------|
-| Investigative & Analytical Thinking | 21 years applying the intelligence cycle (planning, collection, analysis, dissemination) to identify, track, and target threats |
+| Investigative & Analytical Thinking | 21 years applying the intelligence cycle (planning, collection, Processing, analysis, dissemination) to identify, track, and target threats |
 | Root Cause Analysis | Delivered root cause analyses and executive risk briefings across nation-state and counterterrorism environments |
 | Chain-of-Custody & Evidentiary Integrity | Directed digital and biometric forensics operations enforcing strict evidentiary standards |
 | Incident Response & Escalation Management | Currently leading incident response and escalation operations for a 7,000+ person classified facility |
@@ -66,7 +66,7 @@ This repository tracks my transition into cybersecurity, building on a career th
     <img src="https://img.shields.io/badge/-OpenSSL-6b4a4a?&style=for-the-badge&logo=OpenSSL&logoColor=white" />
 </div>
 
-### Programming & Scripting
+### Programming Exposure
 <div>
     <img src="https://img.shields.io/badge/-HTML-9a6a4a?&style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%23-4a7a4a?&style=for-the-badge&logo=CSharp&logoColor=white" />
