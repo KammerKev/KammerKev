@@ -20,6 +20,7 @@ This repository tracks my transition into cybersecurity, building on a career th
 | Compliance & Risk Management | Enforces NIST & DOE Order compliance, security audits, and inspection readiness |
 
 ## Projects
+- [Home Lab Setup](https://github.com/KammerKev/home-lab)
 
 ## Tools & Technologies
 *Foundational exposure — actively deepening hands-on depth through the labs.*
