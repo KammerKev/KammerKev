@@ -84,4 +84,4 @@ This repository tracks my transition into cybersecurity, building on a career th
 </div>
 
 ## Code Repository
-As I work through labs, coursework, and self-study, I'm dropping code, scripts, and notes here: [📂 Code Repository](https://github.com/KammerKev/YOUR-REPO-NAME)
+As I work through labs, coursework, and self-study, I'm dropping code, scripts, and notes here: [📂 Code Repository](https://github.com/KammerKev/Random-Code)
