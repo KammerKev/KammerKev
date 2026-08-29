@@ -1,7 +1,5 @@
 # Hello, I'M Kevin Kammer
-<a href="https://www.linkedin.com/in/kevin-kammer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+<a href="https://www.linkedin.com/in/kevin-kammer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/KammerKev/KammerKev/blob/main/Kevin%20Kammer's%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-D14836?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
