@@ -21,7 +21,8 @@ This repository tracks my transition into cybersecurity, building on a career th
 
 ## Projects
 - [Cyber Journal](https://github.com/kammerkev/Cyber-Journal)
-- [Home Lab Setup](https://github.com/KammerKev/home-Cyber-Lab)
+- [Home Cyber Lab Setup](https://github.com/KammerKev/home-Cyber-Lab)
+- [GIAC Open Source Intelligence Certification (GOSI) Notes:](https://github.com/kammerkev/GOSI-Notes)
 
 ## Tools & Technologies
 *Foundational exposure — actively deepening hands-on depth through the labs.*
