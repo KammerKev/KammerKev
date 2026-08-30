@@ -22,7 +22,7 @@ This repository tracks my transition into cybersecurity, building on a career th
 ## Projects
 - [Cyber Journal](https://github.com/kammerkev/Cyber-Journal)
 - [Home Cyber Lab Setup](https://github.com/KammerKev/home-Cyber-Lab)
-- [Open Source Intelligence Labs](https://github.com/kammerkev/GOSI-Notes)
+- [Open Source Intelligence Labs](https://github.com/kammerkev/OSINT-Labs)
 
 ## Tools & Technologies
 *Foundational exposure — actively deepening hands-on depth through the labs.*
