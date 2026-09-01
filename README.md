@@ -1,6 +1,6 @@
 # Hello, I'm Kevin Kammer
 
-<a href="https://www.linkedin.com/in/kevin-kammer"><img src="https://img.shields.io/badge/-LinkedIn-4a6fa5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/KammerKev/KammerKev/blob/main/Kevin%20Kammer's%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-8b6355?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevin-kammer"><img src="https://img.shields.io/badge/-LinkedIn-4a6fa5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Security investigations and incident response leader with 21 years across the DOD, Intelligence Community, and U.S. Special Operations. Directed digital and biometric forensics operations and intelligence-driven threat hunting, enforcing chain-of-custody and evidentiary integrity. Delivered root cause analyses and executive risk briefings across nation-state and counterterrorism environments, and currently leading incident response, escalation, and compliance operations for a 7,000+ person classified facility. Translates complex technical and operational findings into clear, actionable outcomes for audiences ranging from field teams to C-suite executives and senior government stakeholders. Active TS/SCI clearance.
 
